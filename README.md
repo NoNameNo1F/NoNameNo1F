@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=nonameno1f">
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -8,7 +8,7 @@
 
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/nguyen-cao-nam-vu/" title="LinkedIn Profile"><img width="22" src="images/sites/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://leetcode.com/u/NoNameNo1F/" title="Leetcode Profile"><img width="22" src="images/leetcode.png"> LeetCode</a></code>
+  <code><a href="https://leetcode.com/u/NoNameNo1F/" title="Leetcode Profile"><img width="22" src="images/sites/leetcode.png"> LeetCode</a></code>
 </h5>
 <br>
 <p align="center">
@@ -34,9 +34,9 @@
   <code><img title="C++" height="25" src="images/languages/cpp.svg"></code>
   <code><img title="C#" height="25" src="images/languages/cSharp.svg"></code>
   <code><img title="Python" height="25" src="images/languages/python-original.svg"></code>
-  <code><img title="Golang" height="25" src="images/languages/golang.jpge"></code>
+  <code><img title="Golang" height="25" src="images/languages/golang.svg"></code>
   <code><img title="Javascript" height="25" src="images/languages/javascript.svg"></code>
-  <code><img title="Typescript" height="25" src="images/languages/typescript.jpeg"></code>
+  <code><img title="Typescript" height="25" src="images/languages/typescript.svg"></code>
   <code><img title="HTML5" height="25" src="images/html5.svg"></code>
   <code><img title="CSS3" height="25" src="images/css3.svg"></code>
   <code><img title="React" height="25" src="images/libraries/react-original.svg"></code>
@@ -48,7 +48,7 @@
   <code><img title="Flask" height="25" src="images/frameworks/flask.png"></code>
   <code><img title="Visual Studio Code" height="25" src="images/editor/vscode.png"></code>
   <code><img title="Visual Studio" height="25" src="images/editor/visualstudio.png"></code>
-  <code><img title="Jetbrains Rider" height="25" src="images/editor/jetbrains-rider.svg"></code>
+  <code><img title="Jetbrains Rider" height="25" src="images/editor/jetbrains-rider.png"></code>
   <code><img title="Docker" height="25" src="images/platforms/docker.png"></code>
   <code><img title="GitHub" height="25" src="images/platforms/github.svg"></code>
   <code><img title="Trello" height="25" src="images/tools/trello.jpeg"></code>
