@@ -53,7 +53,7 @@ This version offers a more structured, professional tone while keeping the origi
   <code><img title="Flask" height="25" src="images/frameworks/flask.png"></code>
   <code><img title="Visual Studio Code" height="25" src="images/editor/vscode.png"></code>
   <code><img title="Visual Studio" height="25" src="images/editor/visualstudio.png"></code>
-  <code><img title="Jetbrains Rider" height="25" src="images/editor/jetbrains-rider.png"></code>
+  <code><img title="Jetbrains Rider" height="25" src="images/editor/jetbrains-rider.jpeg"></code>
   <code><img title="Docker" height="25" src="images/platforms/docker.png"></code>
   <code><img title="GitHub" height="25" src="images/platforms/github.svg"></code>
   <code><img title="Trello" height="25" src="images/tools/trello.jpeg"></code>
