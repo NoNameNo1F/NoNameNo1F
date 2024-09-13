@@ -11,20 +11,25 @@
   <code><a href="https://leetcode.com/u/NoNameNo1F/" title="Leetcode Profile"><img width="22" src="images/sites/leetcode.png"> LeetCode</a></code>
 </h5>
 <br>
+
 <p align="center">
-  Hi, I'm Vu Nguyen(Cao Nam) Senior Undergraduate of VNU-HCMUS( Majoring in Networking and CyberSecurity) & .NET Backend Engineering from VIETNAM
+  Hello, I'm Vu Nguyen (Cao Nam), a Senior Undergraduate at VNU-HCMUS majoring in Networking and Cybersecurity, as well as a .NET Backend Engineer from Vietnam.
   <br>
   <br>
-  🔬 I'm currently self-expanding for my knowledge about Modular Monolith and Microservice.
+  🔬 I am currently expanding my knowledge in Modular Monolith and Microservice architectures.
   <br>
-  🎓 I studied from University of Science VNU-HCM, Department of Information Technology (Senior Undergraduate)
+  🎓 I am studying at the University of Science, VNU-HCM, under the Department of Information Technology (Senior Undergraduate).
   <br>
-  📚 I’m currently learning how to build ModularMonolith WebApp with .NET Core
+  📚 I’m currently focused on learning how to develop Modular Monolith web applications using .NET Core.
   <br>
-  💬 Ask me anything about from <a href="https://github.com/NoNameNo1F/NoNameNo1F/issues" title="Issues">Here</a>
+  💬 Feel free to ask me anything via <a href="https://github.com/NoNameNo1F/NoNameNo1F/issues" title="Issues">GitHub Issues</a>.
   <br>
-  📫 How to reach me: <a href="mailto: vunguyencaonam@gmail.com">vunguyencaonam@gmail.com (for work)</a> or <a href="mailto: nonameno1f@gmail.com">nonameno1f@gmail.com (for personal)</a>
+  📫 You can reach me at <a href="mailto: vunguyencaonam@gmail.com">vunguyencaonam@gmail.com (for work)</a> or <a href="mailto: nonameno1f@gmail.com">nonameno1f@gmail.com (for personal)</a>.
 </p>
+
+---
+
+This version offers a more structured, professional tone while keeping the original information intact.
 
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
