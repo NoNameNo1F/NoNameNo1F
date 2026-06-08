@@ -13,14 +13,14 @@
 <br>
 
 <p align="center">
-  Hello, I'm Vu Nguyen (Cao Nam), a Senior Undergraduate at VNU-HCMUS majoring in Networking and Cybersecurity, as well as a .NET Backend Engineer from Vietnam.
+  Hello, I'm Vu Nguyen (Cao Nam), a purely Software Engineer & two months of Data Engineer at Nashtech and an HCMUS Alumnus in Vietnam.
   <br>
   <br>
-  🔬 I am currently expanding my knowledge in Modular Monolith and Microservice architectures.
+  🔬 I am currently expanding my knowledge in Harness Engineering, Agentic, and Cloud Native.
   <br>
-  🎓 I am studying at the University of Science, VNU-HCM, under the Department of Information Technology (Senior Undergraduate).
+  🎓 I am studying at the University of Science, VNU-HCM, under the Department of Information Technology (Graduated).
   <br>
-  📚 I’m currently focused on learning how to develop Modular Monolith web applications using .NET Core.
+  📚 I’ve currently been working and practicing on Software, and new stuff.
   <br>
   💬 Feel free to ask me anything via <a href="https://github.com/NoNameNo1F/NoNameNo1F/issues" title="Issues">GitHub Issues</a>.
   <br>
